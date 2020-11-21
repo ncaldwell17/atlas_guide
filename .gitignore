@@ -1,1 +1,6 @@
 /venv/
+
+# high churn files
+.DS_Store
+__pycache__/
+.idea/
